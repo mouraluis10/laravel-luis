@@ -1,0 +1,43 @@
+
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .hero-section {
+    background-color: #80D2F2;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .card {
+    border: none;
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
