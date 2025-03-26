@@ -14,14 +14,10 @@ use App\Http\Middleware\LogAcessoMiddleware;
 */
 
 Route::get('/', [App\Http\Controllers\Inicio::class, 'inicio'])->name('inicio');
-
 Route::get('/adocao', [App\Http\Controllers\adocao::class, 'adocao'])->name('adocao');
-
 Route::get('/detalhes-animal', [App\Http\Controllers\DetalhesAnimal::class, 'DetalhesAnimal'])->name('DetalhesAnimal');
-
 Route::get('/ListarAnimais', [App\Http\Controllers\ListarAnimais::class, 'ListarAnimais'])->name('ListarAnimais');
-
 Route::get('/login', [App\Http\Controllers\login::class, 'login'])->name('login');
-
 Route::get('/registro', [App\Http\Controllers\registro::class, 'registro'])->name('registro');
 
+Route::post('/registro', [App\Http\Controllers\registro::class, 'criarConta'])->name('registro');

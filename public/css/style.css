@@ -41,3 +41,222 @@
     padding: 20px 0;
     text-align: center;
   }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .register-section {
+    background-color: #80D2F2;
+    padding: 50px 0;
+    text-align: center;
+    color: #fff;
+  }
+  .register-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .register-form h2 {
+    color: #0367A6;
+    margin-bottom: 20px;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .login-section {
+    background-color: #80D2F2;
+    padding: 50px 0;
+    text-align: center;
+    color: #fff;
+  }
+  .login-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .login-form h2 {
+    color: #0367A6;
+    margin-bottom: 20px;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .tutor-section {
+    padding: 50px 0;
+    text-align: center;
+  }
+  .tutor-section h1 {
+    color: #0367A6;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .animal-list-section {
+    padding: 50px 0;
+  }
+  .card {
+    border: none;
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .animal-detail-section {
+    padding: 50px 0;
+  }
+  .animal-detail-section img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .navbar {
+    background-color: #0367A6;
+  }
+  .navbar-brand, .nav-link {
+    color: #fff !important;
+  }
+  .adoption-section {
+    padding: 50px 0;
+    text-align: center;
+  }
+  .btn-primary {
+    background-color: #03A65A;
+    border-color: #03A65A;
+  }
+  .btn-primary:hover {
+    background-color: #048ABF;
+    border-color: #048ABF;
+  }
+  .footer {
+    background-color: #0367A6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }

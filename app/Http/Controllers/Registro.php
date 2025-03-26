@@ -10,4 +10,8 @@ class Registro extends Controller
     function Registro(){
         return view('registro');
     }
+
+    function criarConta(Request $request){
+        dd($request->all());
+    }
 }
