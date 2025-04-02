@@ -20,4 +20,6 @@ Route::get('/ListarAnimais', [App\Http\Controllers\ListarAnimais::class, 'Listar
 Route::get('/login', [App\Http\Controllers\login::class, 'login'])->name('login');
 Route::get('/registro', [App\Http\Controllers\registro::class, 'registro'])->name('registro');
 
+Route::post('/cadastroanimal', [App\Http\Controllers\cadastroanimal::class, 'CadastroAnimal'])->name('cadastroanimal');
+
 Route::post('/registro', [App\Http\Controllers\registro::class, 'criarConta'])->name('registro');
